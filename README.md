@@ -19,10 +19,10 @@ It analyzes transaction patterns to identify anomalies and detect fraudulent act
 ![Overview](Overview.png)
 
 ### 🔹 Fraud Analysis
-![Fraud Analysis](Fraud Analysis.png)
+![Fraud Analysis](Frau-Analysis.png)
 
 ### 🔹 Customer & Bank Insights
-![Customer Insights](Customer & Bank Insights.png)
+![Customer Insights](Customer-&-Bank-Insights.png)
 
 ---
 
